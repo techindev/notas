@@ -1,8 +1,9 @@
+## library installation
+ `npm install react-icons`
 
 ## Getting Started
 
 First, run the development server:
-
 ```bash
 npm run dev
 # or
